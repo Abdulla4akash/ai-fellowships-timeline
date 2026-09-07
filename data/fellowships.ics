@@ -8,7 +8,7 @@ X-WR-TIMEZONE:UTC
 X-WR-CALDESC:Comprehensive calendar of upcoming AI Fellowship deadlines in the UK and USA
 BEGIN:VEVENT
 UID:royal-society-urf-20260909@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260909
 SUMMARY:DEADLINE: Royal Society University Research Fellowship (URF) (UK)
@@ -18,74 +18,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:era-ai-fellowship-20260913@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260913
-SUMMARY:DEADLINE: ERA:AI Fellowship (Cambridge) (UK)
-DESCRIPTION:Fellowship: ERA:AI Fellowship (Cambridge)\nHost: ERA (Equipping Researchers in AI)\nCountry: UK\nCategory: AI Safety, Alignment & Policy\nDeadline: September 13, 2026 (23:59 AoE)\nStipend: Fully funded: £10,000 stipend, private accommodation in Cambridge, meals, travel and visa support\nOfficial URL: https://www.erafellowship.org
-URL:https://www.erafellowship.org
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:nvidia-graduate-fellowship-20260915@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260915
-SUMMARY:DEADLINE: NVIDIA Graduate Fellowship (USA)
-DESCRIPTION:Fellowship: NVIDIA Graduate Fellowship\nHost: NVIDIA\nCountry: USA\nCategory: Industry PhD Fellowships\nDeadline: September 15, 2026 (Annually mid-September)\nStipend: Up to $60,000 per award + access to NVIDIA hardware/GPU clusters + direct mentorship\nOfficial URL: https://www.nvidia.com/en-us/research/graduate-fellowships/
-URL:https://www.nvidia.com/en-us/research/graduate-fellowships/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ibm-phd-fellowship-20260916@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260916
-SUMMARY:DEADLINE: IBM PhD Fellowship Award (USA / UK / Global)
-DESCRIPTION:Fellowship: IBM PhD Fellowship Award\nHost: IBM Research\nCountry: USA / UK / Global\nCategory: Industry PhD Fellowships\nDeadline: September 16, 2026 (Annually mid-September)\nStipend: Stipend of $40,000 (US) / local equivalent (e.g. £25,000+ in UK) + education allowance + IBM research mentor\nOfficial URL: https://research.ibm.com/university/awards/fellowship
-URL:https://research.ibm.com/university/awards/fellowship
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:gates-foundation-ai-fellowship-20260919@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260919
-SUMMARY:DEADLINE: Gates Foundation AI Fellowship (USA / Global)
-DESCRIPTION:Fellowship: Gates Foundation AI Fellowship\nHost: Bill & Melinda Gates Foundation\nCountry: USA / Global\nCategory: Clinical & Translational AI\nDeadline: September 19, 2026\nStipend: Fully funded 12-month competitive salary + benefits + project deployment funds\nOfficial URL: https://www.gatesfoundation.org/
-URL:https://www.gatesfoundation.org/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:meta-phd-fellowship-20260920@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260920
-SUMMARY:DEADLINE: Meta Research PhD Fellowship (USA / UK / Global)
-DESCRIPTION:Fellowship: Meta Research PhD Fellowship\nHost: Meta\nCountry: USA / UK / Global\nCategory: Industry PhD Fellowships\nDeadline: September 20, 2026\nStipend: Two full academic years paid tuition and mandatory fees + $42,000 annual living stipend + $5,000 annual travel grant\nOfficial URL: https://metaresearch.facebook.com/fellowship/
-URL:https://metaresearch.facebook.com/fellowship/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:apple-scholars-aiml-20260908@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260908
-SUMMARY:DEADLINE: Apple Scholars in AI/ML PhD Fellowship (USA / UK / Global)
-DESCRIPTION:Fellowship: Apple Scholars in AI/ML PhD Fellowship\nHost: Apple\nCountry: USA / UK / Global\nCategory: Industry PhD Fellowships\nDeadline: September 8, 2026 (Final university nomination to Apple)\nStipend: Full tuition & fees + competitive living stipend + Apple research internship & mentorship\nOfficial URL: https://machinelearning.apple.com/
-URL:https://machinelearning.apple.com/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:turing-ai-pioneer-20261014@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261014
 SUMMARY:DEADLINE: Turing AI Pioneer Interdisciplinary Fellowships (UK)
@@ -96,7 +30,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nsf-grfp-cise-20261020@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261020
 SUMMARY:DEADLINE: NSF Graduate Research Fellowship Program (GRFP) - CISE/AI (USA)
@@ -107,7 +41,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:royal-society-dorothy-hodgkin-20261029@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261029
 SUMMARY:DEADLINE: Royal Society Dorothy Hodgkin Fellowship (UK)
@@ -118,7 +52,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ndseg-fellowship-20261030@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261030
 SUMMARY:DEADLINE: NDSEG Fellowship (National Defense Science & Engineering Graduate) (USA)
@@ -129,7 +63,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hertz-fellowship-20261030@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261030
 SUMMARY:DEADLINE: Fannie and John Hertz Foundation Fellowship (USA)
@@ -139,19 +73,195 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:aaas-stpf-ai-20261101@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261101
-SUMMARY:DEADLINE: AAAS Science & Technology Policy Fellowship (AI / STPF) (USA)
-DESCRIPTION:Fellowship: AAAS Science & Technology Policy Fellowship (AI / STPF)\nHost: American Association for the Advancement of Science\nCountry: USA\nCategory: AI Safety, Alignment & Policy\nDeadline: November 1, 2026 (23:59 ET)\nStipend: $89,000 – $116,000 annual stipend (commensurate with experience) + health insurance + professional development allowance\nOfficial URL: https://www.aaas.org/programs/science-technology-policy-fellowships
-URL:https://www.aaas.org/programs/science-technology-policy-fellowships
+UID:alan-turing-enrichment-20270119@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270119
+SUMMARY:DEADLINE: Alan Turing Institute Doctoral Enrichment Scheme (UK)
+DESCRIPTION:Fellowship: Alan Turing Institute Doctoral Enrichment Scheme\nHost: The Alan Turing Institute\nCountry: UK\nCategory: Academic & Research Councils\nDeadline: January 19, 2027 (Typically mid-January)\nStipend: Placement at British Library hub in London + up to £450/month tax-free enrichment allowance + travel and masterclasses\nOfficial URL: https://www.turing.ac.uk/work-turing/studentships/enrichment-scheme
+URL:https://www.turing.ac.uk/work-turing/studentships/enrichment-scheme
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:leverhulme-ecf-20270225@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270225
+SUMMARY:DEADLINE: Leverhulme Trust Early Career Fellowships (AI & Computing) (UK)
+DESCRIPTION:Fellowship: Leverhulme Trust Early Career Fellowships (AI & Computing)\nHost: The Leverhulme Trust\nCountry: UK\nCategory: Academic & Research Councils\nDeadline: February 25, 2027 (16:00 GMT)\nStipend: 3 years: 50% salary funded by Leverhulme (up to £26,000/yr), 50% matched by host UK institution + up to £6,000/year research expenses\nOfficial URL: https://www.leverhulme.ac.uk/early-career-fellowships
+URL:https://www.leverhulme.ac.uk/early-career-fellowships
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raeng-research-fellowship-20270520@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270520
+SUMMARY:DEADLINE: Royal Academy of Engineering Research Fellowship (UK)
+DESCRIPTION:Fellowship: Royal Academy of Engineering Research Fellowship\nHost: Royal Academy of Engineering\nCountry: UK\nCategory: Academic & Research Councils\nDeadline: May 20, 2027 (Expression of Interest closes late spring)\nStipend: 5 years 80% Full Economic Cost funding (approx. £500,000–£750,000 total) covering fellow salary and direct research costs\nOfficial URL: https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/
+URL:https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pivotal-fellowship-20261110@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261110
+SUMMARY:DEADLINE: Pivotal Research Fellowship (AI Safety & Interpretability) (UK)
+DESCRIPTION:Fellowship: Pivotal Research Fellowship (AI Safety & Interpretability)\nHost: Pivotal & London Initiative for Safe AI (LISA)\nCountry: UK\nCategory: 8-12 Week Funded Sprints & Training\nDeadline: November 10, 2026 (Spring 2027 intake)\nStipend: £6,000 – £8,000 stipend + £2,000 accommodation/travel support + free office space & catered meals at LISA London\nOfficial URL: https://pivotalfellowship.org
+URL:https://pivotalfellowship.org
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fdl-ai-accelerator-20270410@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270410
+SUMMARY:DEADLINE: Frontier Development Lab (FDL - NASA, ESA & SETI) (USA / UK)
+DESCRIPTION:Fellowship: Frontier Development Lab (FDL - NASA, ESA & SETI)\nHost: Trillium Technologies / NASA / ESA / Google Cloud / NVIDIA\nCountry: USA / UK\nCategory: 8-12 Week Funded Sprints & Training\nDeadline: April 10, 2027 (Annual application cycle opens January/February)\nStipend: Fully funded weekly stipend ($1,000–$1,200/week, ~$8,000–$10,000 total) + accommodation & flights covered\nOfficial URL: https://fdl.ai/
+URL:https://fdl.ai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cohere-scholars-20270215@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270215
+SUMMARY:DEADLINE: Cohere For AI (C4AI) Scholars Program (USA / UK / Global)
+DESCRIPTION:Fellowship: Cohere For AI (C4AI) Scholars Program\nHost: Cohere For AI\nCountry: USA / UK / Global\nCategory: 8-12 Week Funded Sprints & Training\nDeadline: February 15, 2027\nStipend: Fully paid competitive research salary ($56 – $64/hr, ~$9,000–$10,000/month)\nOfficial URL: https://cohere.com/research/scholars
+URL:https://cohere.com/research/scholars
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iliad-fellowship-20261125@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261125
+SUMMARY:DEADLINE: Iliad Fellowship in Applied Mathematics for AI Alignment (UK / USA)
+DESCRIPTION:Fellowship: Iliad Fellowship in Applied Mathematics for AI Alignment\nHost: Iliad & PrincInt\nCountry: UK / USA\nCategory: 8-12 Week Funded Sprints & Training\nDeadline: November 25, 2026 (Spring 2027 Cohort)\nStipend: Fully funded competitive living stipend + full accommodation provided in London + international travel covered\nOfficial URL: https://iliadfellowship.org/
+URL:https://iliadfellowship.org/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:spar-berkeley-20270115@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270115
+SUMMARY:DEADLINE: Supervised Program for Alignment Research (SPAR) (USA)
+DESCRIPTION:Fellowship: Supervised Program for Alignment Research (SPAR)\nHost: UC Berkeley AI Alignment\nCountry: USA\nCategory: 8-12 Week Funded Sprints & Training\nDeadline: January 15, 2027 (Spring 2027 Round)\nStipend: Funded mentee research stipends ($2,000–$5,000 depending on hours and financial need)\nOfficial URL: https://berkeleyalignment.github.io/spar/
+URL:https://berkeleyalignment.github.io/spar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:far-ai-fellowship-20270201@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270201
+SUMMARY:DEADLINE: FAR.AI Alignment Research Sprints & Fellowship (USA)
+DESCRIPTION:Fellowship: FAR.AI Alignment Research Sprints & Fellowship\nHost: FAR AI (Field Alignment Research)\nCountry: USA\nCategory: 8-12 Week Funded Sprints & Training\nDeadline: February 1, 2027 (Summer 2027 Sprint)\nStipend: $7,000/month stipend (~$14,000–$21,000 total) + travel reimbursement and housing support in Berkeley\nOfficial URL: https://far.ai/
+URL:https://far.ai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:apart-lab-fellowship-20261031@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261031
+SUMMARY:DEADLINE: Apart Lab Fellowship & Research Sprints (Global / UK / USA)
+DESCRIPTION:Fellowship: Apart Lab Fellowship & Research Sprints\nHost: Apart Research\nCountry: Global / UK / USA\nCategory: 8-12 Week Funded Sprints & Training\nDeadline: October 31, 2026 (Winter Sprint)\nStipend: $4,000 – $8,000 project research grant\nOfficial URL: https://apartresearch.com/
+URL:https://apartresearch.com/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cern-openlab-summer-20270131@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270131
+SUMMARY:DEADLINE: CERN openlab Summer Student Programme (AI & HPC) (Switzerland (UK & USA eligible))
+DESCRIPTION:Fellowship: CERN openlab Summer Student Programme (AI & HPC)\nHost: CERN (European Organization for Nuclear Research)\nCountry: Switzerland (UK & USA eligible)\nCategory: 8-12 Week Funded Sprints & Training\nDeadline: January 31, 2027 (Annually late January)\nStipend: CHF 90/day living allowance (~CHF 5,670 / $6,500 total) + travel allowance + health insurance\nOfficial URL: https://openlab.cern/education
+URL:https://openlab.cern/education
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eleutherai-fellowship-20261130@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261130
+SUMMARY:DEADLINE: EleutherAI Resident & Research Fellowship (USA / Global)
+DESCRIPTION:Fellowship: EleutherAI Resident & Research Fellowship\nHost: EleutherAI Institute\nCountry: USA / Global\nCategory: 8-12 Week Funded Sprints & Training\nDeadline: November 30, 2026 (Spring Cohort)\nStipend: Competitive monthly research stipend ($4,000–$7,000/month)\nOfficial URL: https://www.eleuther.ai/
+URL:https://www.eleuther.ai/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:turing-data-study-groups-20261024@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261024
+SUMMARY:DEADLINE: Turing Data Study Groups (DSGs - Alan Turing Institute) (UK)
+DESCRIPTION:Fellowship: Turing Data Study Groups (DSGs - Alan Turing Institute)\nHost: The Alan Turing Institute\nCountry: UK\nCategory: 8-12 Week Funded Sprints & Training\nDeadline: October 24, 2026 (Winter DSG round)\nStipend: All travel, accommodation in central London, and subsistence fully funded by the Alan Turing Institute\nOfficial URL: https://www.turing.ac.uk/collaborate-turing/data-study-groups
+URL:https://www.turing.ac.uk/collaborate-turing/data-study-groups
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:apple-scholars-aiml-20260908@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260908
+SUMMARY:DEADLINE: Apple Scholars in AI/ML PhD Fellowship (USA / UK / Global)
+DESCRIPTION:Fellowship: Apple Scholars in AI/ML PhD Fellowship\nHost: Apple\nCountry: USA / UK / Global\nCategory: Industry PhD Fellowships\nDeadline: September 8, 2026 (Final university nomination to Apple)\nStipend: Full tuition & fees + competitive living stipend + Apple research internship & mentorship\nOfficial URL: https://machinelearning.apple.com/
+URL:https://machinelearning.apple.com/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nvidia-graduate-fellowship-20260915@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260915
+SUMMARY:DEADLINE: NVIDIA Graduate Fellowship (USA)
+DESCRIPTION:Fellowship: NVIDIA Graduate Fellowship\nHost: NVIDIA\nCountry: USA\nCategory: Industry PhD Fellowships\nDeadline: September 15, 2026 (Annually mid-September)\nStipend: Up to $60,000 per award + access to NVIDIA hardware/GPU clusters + direct mentorship\nOfficial URL: https://www.nvidia.com/en-us/research/graduate-fellowships/
+URL:https://www.nvidia.com/en-us/research/graduate-fellowships/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ibm-phd-fellowship-20260916@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260916
+SUMMARY:DEADLINE: IBM PhD Fellowship Award (USA / UK / Global)
+DESCRIPTION:Fellowship: IBM PhD Fellowship Award\nHost: IBM Research\nCountry: USA / UK / Global\nCategory: Industry PhD Fellowships\nDeadline: September 16, 2026 (Annually mid-September)\nStipend: Stipend of $40,000 (US) / local equivalent (e.g. £25,000+ in UK) + education allowance + IBM research mentor\nOfficial URL: https://research.ibm.com/university/awards/fellowship
+URL:https://research.ibm.com/university/awards/fellowship
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:meta-phd-fellowship-20260920@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260920
+SUMMARY:DEADLINE: Meta Research PhD Fellowship (USA / UK / Global)
+DESCRIPTION:Fellowship: Meta Research PhD Fellowship\nHost: Meta\nCountry: USA / UK / Global\nCategory: Industry PhD Fellowships\nDeadline: September 20, 2026\nStipend: Two full academic years paid tuition and mandatory fees + $42,000 annual living stipend + $5,000 annual travel grant\nOfficial URL: https://metaresearch.facebook.com/fellowship/
+URL:https://metaresearch.facebook.com/fellowship/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jane-street-grf-20261113@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261113
 SUMMARY:DEADLINE: Jane Street Graduate Research Fellowship (USA / UK / Global)
@@ -161,19 +271,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:nhs-clinical-ai-fellowship-20261116@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261116
-SUMMARY:DEADLINE: NHS Fellowship in Clinical AI (UK)
-DESCRIPTION:Fellowship: NHS Fellowship in Clinical AI\nHost: NHS England / Health Innovation Networks\nCountry: UK\nCategory: Clinical & Translational AI\nDeadline: November 16, 2026 (23:59 GMT)\nStipend: 0.4 FTE salary backfill paid to NHS Trust + fully funded Postgraduate Certificate (PGCert) in Clinical AI + direct project deployment mentorship\nOfficial URL: https://clinicalai.org.uk/
-URL:https://clinicalai.org.uk/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:qualcomm-qinf-north-america-20261201@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261201
 SUMMARY:DEADLINE: Qualcomm Innovation Fellowship (North America) (USA)
@@ -183,85 +282,19 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:princeton-citp-fellowship-20261201@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261201
-SUMMARY:DEADLINE: Princeton CITP Fellows Program (USA)
-DESCRIPTION:Fellowship: Princeton CITP Fellows Program\nHost: Center for Information Technology Policy, Princeton University\nCountry: USA\nCategory: Postdoctoral & Early Career\nDeadline: December 1, 2026 (Review begins Dec 1 / final cutoff Dec 8)\nStipend: Fully funded postdoctoral salary (~$80,000–$90,000) + health benefits + research and travel allowance\nOfficial URL: https://citp.princeton.edu/programs/fellows/
-URL:https://citp.princeton.edu/programs/fellows/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-berkman-klein-20261205@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261205
-SUMMARY:DEADLINE: Harvard Berkman Klein Center Fellowship (USA)
-DESCRIPTION:Fellowship: Harvard Berkman Klein Center Fellowship\nHost: Berkman Klein Center for Internet & Society, Harvard University\nCountry: USA\nCategory: AI Safety, Alignment & Policy\nDeadline: December 5, 2026 (Annually early December)\nStipend: Stipend support (range $60,000–$80,000 depending on fellowship track) + access to Harvard resources, seminars, and collaborative initiatives\nOfficial URL: https://cyber.harvard.edu/getinvolved/fellowships
-URL:https://cyber.harvard.edu/getinvolved/fellowships
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-hdsi-postdoc-20261210@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261210
-SUMMARY:DEADLINE: Harvard Data Science Initiative (HDSI) Postdoctoral Fellowship (USA)
-DESCRIPTION:Fellowship: Harvard Data Science Initiative (HDSI) Postdoctoral Fellowship\nHost: Harvard Data Science Initiative\nCountry: USA\nCategory: Postdoctoral & Early Career\nDeadline: December 10, 2026\nStipend: $85,000+ annual salary + full benefits + $10,000 annual discretionary research/travel budget\nOfficial URL: https://datascience.harvard.edu/postdoctoral-fellows
-URL:https://datascience.harvard.edu/postdoctoral-fellows
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:stanford-hai-postdoc-20261215@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261215
-SUMMARY:DEADLINE: Stanford HAI / SAIL Postdoctoral Fellowship (USA)
-DESCRIPTION:Fellowship: Stanford HAI / SAIL Postdoctoral Fellowship\nHost: Stanford Institute for Human-Centered Artificial Intelligence & SAIL\nCountry: USA\nCategory: Postdoctoral & Early Career\nDeadline: December 15, 2026 (Review begins mid-December)\nStipend: $85,000–$95,000 annual salary + full Stanford postdoc benefits + compute allocations and travel funds\nOfficial URL: https://hai.stanford.edu/
-URL:https://hai.stanford.edu/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:microsoft-research-fellowship-20261216@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261216
 SUMMARY:DEADLINE: Microsoft Research Fellowship Program (USA / UK / Global)
-DESCRIPTION:Fellowship: Microsoft Research Fellowship Program\nHost: Microsoft Research\nCountry: USA / UK / Global\nCategory: Industry PhD Fellowships\nDeadline: December 16, 2026 (23:59 ET)\nStipend: Financial research award + direct collaboration with Microsoft Research scientists + Azure cloud compute credits\nOfficial URL: https://www.microsoft.com/en-us/research/academic-programs/fellowships/
+DESCRIPTION:Fellowship: Microsoft Research Fellowship Program\nHost: Microsoft Research\nCountry: USA / UK / Global\nCategory: Industry PhD Fellowships\nDeadline: December 16, 2026 (23:59 ET)\nStipend: Financial research award + direct collaboration with Microsoft Research scientists\nOfficial URL: https://www.microsoft.com/en-us/research/academic-programs/fellowships/
 URL:https://www.microsoft.com/en-us/research/academic-programs/fellowships/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tarbell-fellowship-20270107@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270107
-SUMMARY:DEADLINE: Tarbell Fellowship (AI Journalism & Investigation) (USA / UK / Remote)
-DESCRIPTION:Fellowship: Tarbell Fellowship (AI Journalism & Investigation)\nHost: Tarbell Center for AI Journalism\nCountry: USA / UK / Remote\nCategory: AI Safety, Alignment & Policy\nDeadline: January 7, 2027 (Typically first week of January)\nStipend: $45,000 – $60,000 stipend + full placement at major newsroom (e.g., TIME, The Guardian, Vox, etc.) + 2-week Oxford kickoff summit\nOfficial URL: https://www.tarbellcenter.org/fellowship
-URL:https://www.tarbellcenter.org/fellowship
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:alan-turing-enrichment-20270119@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270119
-SUMMARY:DEADLINE: Alan Turing Institute Doctoral Enrichment Scheme (UK)
-DESCRIPTION:Fellowship: Alan Turing Institute Doctoral Enrichment Scheme\nHost: The Alan Turing Institute\nCountry: UK\nCategory: Academic & Research Councils\nDeadline: January 19, 2027 (Typically mid-January)\nStipend: Placement at British Library hub in London + up to £450/month tax-free enrichment allowance + Turing computing cluster access + masterclasses\nOfficial URL: https://www.turing.ac.uk/work-turing/studentships/enrichment-scheme
-URL:https://www.turing.ac.uk/work-turing/studentships/enrichment-scheme
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:qualcomm-qinf-europe-20270128@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270128
 SUMMARY:DEADLINE: Qualcomm Innovation Fellowship Europe (UK & EU) (UK)
@@ -271,19 +304,63 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:leverhulme-ecf-20270225@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20270225
-DTEND;VALUE=DATE:20270225
-SUMMARY:DEADLINE: Leverhulme Trust Early Career Fellowships (AI & Computing) (UK)
-DESCRIPTION:Fellowship: Leverhulme Trust Early Career Fellowships (AI & Computing)\nHost: The Leverhulme Trust\nCountry: UK\nCategory: Academic & Research Councils\nDeadline: February 25, 2027 (16:00 GMT)\nStipend: 3 years: 50% salary funded by Leverhulme (up to £26,000/yr), 50% matched by host university + up to £6,000/year research expenses\nOfficial URL: https://www.leverhulme.ac.uk/early-career-fellowships
-URL:https://www.leverhulme.ac.uk/early-career-fellowships
+UID:google-phd-fellowship-20270430@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270430
+SUMMARY:DEADLINE: Google PhD Fellowship (USA / UK / Global)
+DESCRIPTION:Fellowship: Google PhD Fellowship\nHost: Google Research\nCountry: USA / UK / Global\nCategory: Industry PhD Fellowships\nDeadline: April 30, 2027 (Annually late April; portal opens March)\nStipend: Up to 3 years: full tuition and mandatory fees paid + $40,000–$60,000/year living stipend (based on country) + 1-on-1 Google Research Mentor\nOfficial URL: https://research.google/outreach/phd-fellowship/
+URL:https://research.google/outreach/phd-fellowship/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:era-ai-fellowship-20260913@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260913
+SUMMARY:DEADLINE: ERA:AI Fellowship (Cambridge) (UK)
+DESCRIPTION:Fellowship: ERA:AI Fellowship (Cambridge)\nHost: ERA (Equipping Researchers in AI)\nCountry: UK\nCategory: AI Safety, Alignment & Policy\nDeadline: September 13, 2026 (23:59 AoE)\nStipend: Fully funded: £10,000 stipend, private accommodation in Cambridge, meals, travel and visa support\nOfficial URL: https://www.erafellowship.org
+URL:https://www.erafellowship.org
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aaas-stpf-ai-20261101@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261101
+SUMMARY:DEADLINE: AAAS Science & Technology Policy Fellowship (AI / STPF) (USA)
+DESCRIPTION:Fellowship: AAAS Science & Technology Policy Fellowship (AI / STPF)\nHost: American Association for the Advancement of Science\nCountry: USA\nCategory: AI Safety, Alignment & Policy\nDeadline: November 1, 2026 (23:59 ET)\nStipend: $89,000 – $116,000 annual stipend (commensurate with experience) + health insurance + professional development allowance\nOfficial URL: https://www.aaas.org/programs/science-technology-policy-fellowships
+URL:https://www.aaas.org/programs/science-technology-policy-fellowships
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-berkman-klein-20261205@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261205
+SUMMARY:DEADLINE: Harvard Berkman Klein Center Fellowship (USA)
+DESCRIPTION:Fellowship: Harvard Berkman Klein Center Fellowship\nHost: Berkman Klein Center for Internet & Society, Harvard University\nCountry: USA\nCategory: AI Safety, Alignment & Policy\nDeadline: December 5, 2026 (Annually early December)\nStipend: Stipend support (range $60,000–$80,000 depending on fellowship track) + access to Harvard resources, seminars, and collaborative initiatives\nOfficial URL: https://cyber.harvard.edu/getinvolved/fellowships
+URL:https://cyber.harvard.edu/getinvolved/fellowships
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tarbell-fellowship-20270107@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270107
+SUMMARY:DEADLINE: Tarbell Fellowship (AI Journalism & Investigation) (USA / UK / Remote)
+DESCRIPTION:Fellowship: Tarbell Fellowship (AI Journalism & Investigation)\nHost: Tarbell Center for AI Journalism\nCountry: USA / UK / Remote\nCategory: AI Safety, Alignment & Policy\nDeadline: January 7, 2027 (Typically first week of January)\nStipend: $45,000 – $60,000 stipend + full placement at major newsroom (e.g., TIME, The Guardian, Vox, etc.) + 2-week Oxford kickoff summit\nOfficial URL: https://www.tarbellcenter.org/fellowship
+URL:https://www.tarbellcenter.org/fellowship
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:govai-summer-fellowship-20270301@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270301
 SUMMARY:DEADLINE: Centre for the Governance of AI (GovAI) Summer Fellowship (UK / USA)
@@ -294,18 +371,51 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mats-summer-cohort-20270330@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270330
 SUMMARY:DEADLINE: MATS (ML Alignment & Theory Scholars) Summer Program (USA / UK)
-DESCRIPTION:Fellowship: MATS (ML Alignment & Theory Scholars) Summer Program\nHost: MATS Program\nCountry: USA / UK\nCategory: AI Safety, Alignment & Policy\nDeadline: March 30, 2027 (Annually late March / early April)\nStipend: Fully funded: competitive stipend ($10,000–$14,000 for 10-12 weeks) + housing provided + high-end compute (A100/H100 clusters) + mentorship from world-leading alignment researchers\nOfficial URL: https://www.matsprogram.org/
+DESCRIPTION:Fellowship: MATS (ML Alignment & Theory Scholars) Summer Program\nHost: MATS Program\nCountry: USA / UK\nCategory: AI Safety, Alignment & Policy\nDeadline: March 30, 2027 (Annually late March / early April)\nStipend: Fully funded: competitive stipend ($10,000–$14,000 for 10-12 weeks) + housing provided + mentorship from world-leading alignment researchers\nOfficial URL: https://www.matsprogram.org/
 URL:https://www.matsprogram.org/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:princeton-citp-fellowship-20261201@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261201
+SUMMARY:DEADLINE: Princeton CITP Fellows Program (USA)
+DESCRIPTION:Fellowship: Princeton CITP Fellows Program\nHost: Center for Information Technology Policy, Princeton University\nCountry: USA\nCategory: Postdoctoral & Early Career\nDeadline: December 1, 2026 (Review begins Dec 1 / final cutoff Dec 8)\nStipend: Fully funded postdoctoral salary (~$80,000–$90,000) + health benefits + research and travel allowance\nOfficial URL: https://citp.princeton.edu/programs/fellows/
+URL:https://citp.princeton.edu/programs/fellows/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-hdsi-postdoc-20261210@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261210
+SUMMARY:DEADLINE: Harvard Data Science Initiative (HDSI) Postdoctoral Fellowship (USA)
+DESCRIPTION:Fellowship: Harvard Data Science Initiative (HDSI) Postdoctoral Fellowship\nHost: Harvard Data Science Initiative\nCountry: USA\nCategory: Postdoctoral & Early Career\nDeadline: December 10, 2026\nStipend: $85,000+ annual salary + full benefits + $10,000 annual discretionary research/travel budget\nOfficial URL: https://datascience.harvard.edu/postdoctoral-fellows
+URL:https://datascience.harvard.edu/postdoctoral-fellows
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-hai-postdoc-20261215@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261215
+SUMMARY:DEADLINE: Stanford HAI / SAIL Postdoctoral Fellowship (USA)
+DESCRIPTION:Fellowship: Stanford HAI / SAIL Postdoctoral Fellowship\nHost: Stanford Institute for Human-Centered Artificial Intelligence & SAIL\nCountry: USA\nCategory: Postdoctoral & Early Career\nDeadline: December 15, 2026 (Review begins mid-December)\nStipend: $85,000–$95,000 annual salary + full Stanford postdoc benefits + travel funds\nOfficial URL: https://hai.stanford.edu/
+URL:https://hai.stanford.edu/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:schmidt-science-fellows-20270415@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270415
 SUMMARY:DEADLINE: Schmidt Science Fellows (2027–2028 Cohort) (USA / UK / Global)
@@ -315,35 +425,35 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:google-phd-fellowship-20270430@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20270430
-DTEND;VALUE=DATE:20270430
-SUMMARY:DEADLINE: Google PhD Fellowship (USA / UK / Global)
-DESCRIPTION:Fellowship: Google PhD Fellowship\nHost: Google Research\nCountry: USA / UK / Global\nCategory: Industry PhD Fellowships\nDeadline: April 30, 2027 (Annually late April; portal opens March)\nStipend: Up to 3 years: full tuition and mandatory fees paid + $40,000–$60,000/year living stipend (based on country) + 1-on-1 Google Research Mentor\nOfficial URL: https://research.google/outreach/phd-fellowship/
-URL:https://research.google/outreach/phd-fellowship/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:raeng-research-fellowship-20270520@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
-DTSTART;VALUE=DATE:20270520
-DTEND;VALUE=DATE:20270520
-SUMMARY:DEADLINE: Royal Academy of Engineering Research Fellowship (UK)
-DESCRIPTION:Fellowship: Royal Academy of Engineering Research Fellowship\nHost: Royal Academy of Engineering\nCountry: UK\nCategory: Academic & Research Councils\nDeadline: May 20, 2027 (Expression of Interest closes late spring)\nStipend: 5 years 80% Full Economic Cost funding (approx. £500,000–£750,000 total) covering fellow salary and direct research costs\nOfficial URL: https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/
-URL:https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:schmidt-ai-in-science-postdoc-20261115@ai-fellowships-timeline
-DTSTAMP:20260907T165628Z
+DTSTAMP:20260907T165949Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261115
 SUMMARY:DEADLINE: Schmidt AI in Science Postdoctoral Fellowship (UK / USA)
-DESCRIPTION:Fellowship: Schmidt AI in Science Postdoctoral Fellowship\nHost: Schmidt Sciences (Oxford, Imperial, UCSD, Michigan, Chicago, Cornell)\nCountry: UK / USA\nCategory: Postdoctoral & Early Career\nDeadline: Varies by campus (Oxford/Imperial: October; UCSD/Michigan: November & March)\nStipend: 2 years fully funded postdoctoral salary ($80,000+ / £45,000–£55,000) + compute credits + dedicated AI training program\nOfficial URL: https://www.schmidtsciences.org/
+DESCRIPTION:Fellowship: Schmidt AI in Science Postdoctoral Fellowship\nHost: Schmidt Sciences (Oxford, Imperial, UCSD, Michigan, Chicago, Cornell)\nCountry: UK / USA\nCategory: Postdoctoral & Early Career\nDeadline: Varies by campus (Oxford/Imperial: October; UCSD/Michigan: November & March)\nStipend: 2 years fully funded postdoctoral salary ($80,000+ / £45,000–£55,000) + dedicated AI training program\nOfficial URL: https://www.schmidtsciences.org/
 URL:https://www.schmidtsciences.org/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gates-foundation-ai-fellowship-20260919@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260919
+SUMMARY:DEADLINE: Gates Foundation AI Fellowship (USA / Global)
+DESCRIPTION:Fellowship: Gates Foundation AI Fellowship\nHost: Bill & Melinda Gates Foundation\nCountry: USA / Global\nCategory: Clinical & Translational AI\nDeadline: September 19, 2026\nStipend: Fully funded 12-month competitive salary + benefits + project deployment funds\nOfficial URL: https://www.gatesfoundation.org/
+URL:https://www.gatesfoundation.org/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nhs-clinical-ai-fellowship-20261116@ai-fellowships-timeline
+DTSTAMP:20260907T165949Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261116
+SUMMARY:DEADLINE: NHS Fellowship in Clinical AI (UK)
+DESCRIPTION:Fellowship: NHS Fellowship in Clinical AI\nHost: NHS England / Health Innovation Networks\nCountry: UK\nCategory: Clinical & Translational AI\nDeadline: November 16, 2026 (23:59 GMT)\nStipend: 0.4 FTE salary backfill paid to NHS Trust + fully funded Postgraduate Certificate (PGCert) in Clinical AI + direct project deployment mentorship\nOfficial URL: https://clinicalai.org.uk/
+URL:https://clinicalai.org.uk/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
