@@ -30,6 +30,22 @@ A curated, comprehensive tracking guide and timeline for competitive **Artificia
 
 ---
 
+## 🚨 Urgent: Fellowships Closing Within 2 Weeks (September Priority)
+
+If you are looking for deadlines right now, the following **7 programs close between September 8 and September 20, 2026**:
+
+| Deadline | Program Name | Country / Scope | Level / Stage | Funding / Stipend | Action / Portal |
+| :--- | :--- | :---: | :--- | :--- | :---: |
+| **Tomorrow: Sept 8** | [Apple Scholars in AI/ML](https://machinelearning.apple.com/) | USA / UK | PhD (Final 2–3 yrs) | Full tuition + living stipend + Apple AI research internship | [Nomination Portal](https://machinelearning.apple.com/) |
+| **In 2 Days: Sept 9 (15:00 BST)** | [Royal Society URF](https://royalsociety.org/grants/university-research-fellowship/) | UK | Early Career / Postdoc | Up to 8 years salary + £90k/yr research expenses | [Flexi-Grant](https://royalsociety.org/grants/university-research-fellowship/) |
+| **In 6 Days: Sept 13 (23:59 AoE)** | [ERA:AI Fellowship (Cambridge)](https://www.erafellowship.org) | UK | Grad / Early Career | Fully funded: £10,000 stipend + housing + travel/visa support | [Apply Online](https://www.erafellowship.org) |
+| **In 8 Days: Sept 15** | [NVIDIA Graduate Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) | USA / Global | PhD (Post-1st yr) | Up to ,000 + NVIDIA internal GPU cluster / DGX access | [Apply Online](https://www.nvidia.com/en-us/research/graduate-fellowships/) |
+| **In 9 Days: Sept 16** | [IBM PhD Fellowship Award](https://research.ibm.com/university/awards/fellowship) | USA / UK | PhD (Nominated) | ,000 stipend (or UK equivalent) + IBM Cloud HPC / Quantum | [Nomination Portal](https://research.ibm.com/university/awards/fellowship) |
+| **In 12 Days: Sept 19** | [Gates Foundation AI Fellowship](https://www.gatesfoundation.org/) | USA / Global | Early/Mid Career | 12-month competitive full salary + deployment funding | [Gates Foundation](https://www.gatesfoundation.org/) |
+| **In 13 Days: Sept 20** | [Meta Research PhD Fellowship](https://metaresearch.facebook.com/fellowship/) | USA / UK | PhD Candidates | 2 full years tuition + ,000/yr living stipend + ,000 travel | [Meta Research](https://metaresearch.facebook.com/fellowship/) |
+
+---
+
 ## ⚡ Executive Summary & Timeline Overview
 
 AI opportunities generally fall across three formats:
